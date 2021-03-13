@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity {
     private FirebaseListAdapter<ChatMessage> adapter;
     RelativeLayout activity_main;
 
-    //Add Emojicon
+    //Add Emoji ...
     EmojiconEditText emojiconEditText;
     ImageView emojiButton,submitButton;
     EmojIconActions emojIconActions;
